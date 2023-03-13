@@ -1,0 +1,54 @@
+{
+    "movies": [
+        {
+            "movie_id": 1,
+            "name": "string",
+            "genre": "string",
+            "director": "string"
+        },
+        {
+            "movie_id": 3,
+            "name": "steve jobs",
+            "genre": "learning",
+            "director": "yt"
+        },
+        {
+            "movie_id": 6,
+            "name": "avenger 6",
+            "genre": "superhero",
+            "director": "Kevin figie"
+        },
+        {
+            "movie_id": 5,
+            "name": "avenger 5",
+            "genre": "superhero",
+            "director": "Kevin"
+        },
+        {
+            "movie_id": 6,
+            "name": "avenger 4",
+            "genre": "superhero",
+            "director": "Kevin figie"
+        },
+        {
+            "movie_id": 7,
+            "name": "avenger 7",
+            "genre": "superhero",
+            "director": "Kevin figie"
+        },
+        {
+            "movie_id": 8,
+            "name": "avenger 11",
+            "genre": "superhero",
+            "director": "Kevin figie"
+        }
+    ],
+    "series": [
+        {
+            "series_id": 1,
+            "name": "string",
+            "genre": "string",
+            "director": "string"
+        }
+    ]
+}
